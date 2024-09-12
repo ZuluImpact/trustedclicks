@@ -17,7 +17,7 @@ Discover high risk visitors browsing on your website. Our AI algorithms deliver 
   </ul>
 
 <h2>Demo</h2>
-You can see a live demo of this website: https://trustedclicks.ai/
+You can see a live demo of this website: <a href="https://trustedclicks.ai/" target="_blank"> https://trustedclicks.ai/ </a>
 
 <h2>Technolgies Used</h2>
 Front-end Framework: HTML <br>
